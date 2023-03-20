@@ -20,10 +20,13 @@ Coloque os dados coletados pelo seu dispositivo IoT em um arquivo CSV na pasta d
 Execute o arquivo main.py para rodar o projeto.
 Os resultados da previsão serão salvos em um arquivo CSV na pasta visualizacao e uma página HTML interativa será gerada na pasta visualizacao para visualizar os resultados.
 
-Tecnologias utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+<h1>Tecnologias utilizadas</h1>
+<p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
-Python 3
+<img src="https://img.icons8.com/color/48/000000/python.png">
+<img src="https://img.icons8.com/color/48/000000/python.png">
+
+Dependencias Python:
 Pandas
 Scikit-learn
 Jinja2

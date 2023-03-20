@@ -2,7 +2,7 @@
 
 <p>LuminaPredict é um projeto de IoT com aprendizado de máquina para previsão de luminosidade. Ele usa dados de luminosidade, temperatura e umidade coletados por um dispositivo IoT para prever a luminosidade futura com base nas condições ambientais.</p>
 
-<img src="img.PNG" alt="Imagem de exemplo" width="100" height="100">
+<img src="11.PNG" alt="Imagem de exemplo" width="100" height="100">
 
 <h1>Como funciona</h1>
 

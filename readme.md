@@ -24,7 +24,7 @@ Os resultados da previsão serão salvos em um arquivo CSV na pasta visualizacao
 <p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
 <img src="https://img.icons8.com/color/48/000000/python.png">
-<img src="https://img.icons8.com/color/48/000000/python.png">
+<img src="https://img.icons8.com/color/48/000000/html.png">
 
 Dependencias Python:
 Pandas

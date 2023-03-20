@@ -1,0 +1,4 @@
+- timestamp: data e hora da coleta de dados (formato: YYYY-MM-DD HH:MM:SS)
+- temperatura: temperatura ambiente em graus Celsius
+- humidade: umidade relativa do ar em %
+- luminosidade: intensidade da luz em lux
